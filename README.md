@@ -22,7 +22,7 @@ Realiza las siguiente actividad y sube la carpeta resultante como un zip a la ta
 * Crea una pagina _nombre_etiqueta.html_, ejemplo: abbr.html, p.html, main.html.
 * Víncula dichas páginas a los <a> del main de la página _nombreclasificacion.html_ que corresponda.
 * Mantén el head, el nav y el footer del index.html en cada página (cópialos).
-* Incluye una etiqueta main que contenga un título de nivel 3 con el nombre de la etiqueta que vamos a definir, un párrafo con una descripción de la etiqueta (no tiene por qué ser literal lo que aparece en las diapositivas, una descripción que sea entendible para ti), otra etiqueta p que contenga un fragmento de etiqueta <code> con un uso sencillo de la etiqueta y acto seguido dicho fragmento tal cual para que la página lo muestre.
+* Incluye una etiqueta main que contenga un título de nivel 3 con el nombre de la etiqueta que vamos a definir, un párrafo con una descripción de la etiqueta (no tiene por qué ser literal lo que aparece en las diapositivas, una descripción que sea entendible para ti), otra etiqueta p que contenga un fragmento de etiqueta _code_ con un uso sencillo de la etiqueta y acto seguido dicho fragmento tal cual para que la página lo muestre.
 
   
 
